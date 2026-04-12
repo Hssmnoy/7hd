@@ -2,6 +2,20 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "53 อาทิตย์คิดเพื่อพ่อ 53 Sundays (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-12-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.10.25-e1775931184375.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/oqD-6RzO_bURi/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/oqD-6RzO_bURi"
+        }
+      ]
+    },
+    {
       "name": "ฉลามคลั่ง ทะเลเดือด THRASH 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-11-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.06.04-e1775876795682.png",
       "servers": [
