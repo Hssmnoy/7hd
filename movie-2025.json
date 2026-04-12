@@ -2,6 +2,20 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "ฉันจะบอกความจริงกับคุณ I will tell you the truth (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-12-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.10.53-e1775931142374.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/uaRO-3lI_pYIi/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/uaRO-3lI_pYIi"
+        }
+      ]
+    },
+    {
       "name": "เจา คนเล็กผจญเงือกใหญ่ ChaO (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-08-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.57.10-e1775660767685.png",
       "servers": [
