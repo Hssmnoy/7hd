@@ -2,6 +2,20 @@
   "name": "หนังญี่ปุ่น",
   "stations": [
     {
+      "name": "ฉันจะบอกความจริงกับคุณ I will tell you the truth (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-12-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.10.53-e1775931142374.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/uaRO-3lI_pYIi/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/uaRO-3lI_pYIi"
+        }
+      ]
+    },
+    {
       "name": "ผี…ดุ จูออน Ju-on (2001)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.56.52-e1775325547410.png",
       "servers": [
