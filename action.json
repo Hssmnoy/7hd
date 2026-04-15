@@ -2,6 +2,76 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "โค้ดทรี Code 3 (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.02-e1776177051276.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Lmz-e1Cl_rQaW/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Lmz-e1Cl_rQaW"
+        }
+      ]
+    },
+    {
+      "name": "ถนนโจร Thieves Highway (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.21.50-e1776177156753.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/I_XDG-4cwrQmz/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/I_XDG-4cwrQmz"
+        }
+      ]
+    },
+    {
+      "name": "ครูซา Cursa (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.47-e1776177095668.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/w6-FcQ_RSrBdT/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/w6-FcQ_RSrBdT"
+        }
+      ]
+    },
+    {
+      "name": "เรตต้า ธาลา Retta Thala (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.25-e1776177076212.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/aQNR_eZYS-AhO/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/aQNR_eZYS-AhO"
+        }
+      ]
+    },
+    {
+      "name": "แทรกซึม Infiltrate (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-15-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-15.56.05-e1776243496459.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/6aZYH_bEf8-Ub/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/6aZYH_bEf8-Ub"
+        }
+      ]
+    },
+    {
       "name": "120 บาฮาดูร์ 120 Bahadur (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.22.01-e1776176860574.png",
       "servers": [
