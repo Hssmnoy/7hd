@@ -2,6 +2,48 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "โค้ดทรี Code 3 (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.02-e1776177051276.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Lmz-e1Cl_rQaW/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Lmz-e1Cl_rQaW"
+        }
+      ]
+    },
+    {
+      "name": "ถนนโจร Thieves Highway (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.21.50-e1776177156753.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/I_XDG-4cwrQmz/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/I_XDG-4cwrQmz"
+        }
+      ]
+    },
+    {
+      "name": "ลาบินัค พวกเขาเกือบจะเป็นเราแล้ว Labinak They Are Almost Us (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.24.39-e1776177136766.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/NtPR7-Rp_D71i/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/NtPR7-Rp_D71i"
+        }
+      ]
+    },
+    {
       "name": "ครูซา Cursa (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.47-e1776177095668.png",
       "servers": [
