@@ -2,6 +2,34 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "วา วาธิยาร์ Vaa Vaathiyaar (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.12.19-1-e1776449663233.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/TKw-VPac_4meP/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/TKw-VPac_4meP"
+        }
+      ]
+    },
+    {
+      "name": "ฟาเบียนและงานแต่งงานมรณะ Fabian and the Deadly Wedding (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.14.53-e1776449722687.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/tw2_ZR-bzdd5Z/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/tw2_ZR-bzdd5Z"
+        }
+      ]
+    },
+    {
       "name": "โค้ดทรี Code 3 (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-14-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.23.02-e1776177051276.png",
       "servers": [
