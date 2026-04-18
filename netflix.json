@@ -2,6 +2,20 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "ปิง ปิ่ง ปิ้ง Toaster (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.58-e1776449410817.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/h6Z_Gc-I12avd/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/h6Z_Gc-I12avd"
+        }
+      ]
+    },
+    {
       "name": "รักนี้มงลง Perfect Crown 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-15-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.01.13-e1776193471678.png",
       "servers": [
