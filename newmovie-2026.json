@@ -2,6 +2,48 @@
   "name": "หนังใหม่ 2026",
   "stations": [
     {
+      "name": "บอลอัพ Balls Up (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.43-e1776449436432.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/xa-fwIc_NYPBV/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/xa-fwIc_NYPBV"
+        }
+      ]
+    },
+    {
+      "name": "ปิง ปิ่ง ปิ้ง Toaster (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.58-e1776449410817.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/h6Z_Gc-I12avd/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/h6Z_Gc-I12avd"
+        }
+      ]
+    },
+    {
+      "name": "สี่คนแห่งเคาน์ตีแฟร์ฟิลด์ The Fairfield County Four (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.08-e1776449499351.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Z-1_HwbSUtnTu/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Z-1_HwbSUtnTu"
+        }
+      ]
+    },
+    {
       "name": "วา วาธิยาร์ Vaa Vaathiyaar (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.12.19-1-e1776449663233.png",
       "servers": [
