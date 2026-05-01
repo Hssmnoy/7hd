@@ -2,6 +2,76 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "หนึ่ง แปด ศูนย์ 180 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.23-e1776545004843.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/kw_eeM-n2riUh/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/kw_eeM-n2riUh"
+        }
+      ]
+    },
+    {
+      "name": "ซูซูกิ บากุดัน Suzuki Bakudan (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.43-e1776545048999.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Q-x4WWOS_5lhq/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Q-x4WWOS_5lhq"
+        }
+      ]
+    },
+    {
+      "name": "ปฏิบัติการเดือดเลือดล้างเลือด Vengeance (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.51.52-e1776718552777.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/MkboqUWM-a_bL/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/MkboqUWM-a_bL"
+        }
+      ]
+    },
+    {
+      "name": "ทางโจร 2 Crooks Season 2 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.51.17-e1776718628108.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/H_cWyNn-vsmJU/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/H_cWyNn-vsmJU"
+        }
+      ]
+    },
+    {
+      "name": "แพนด้าเด้งยกกำลังฟัด Panda Plan 2 The Magical Tribe (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-23-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.55.16-e1776945380711.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/r-dN1YF_xqXkY/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/r-dN1YF_xqXkY"
+        }
+      ]
+    },
+    {
       "name": "บัลลิสติก Ballistic (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-23-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.09.45-e1776946534998.png",
       "servers": [
