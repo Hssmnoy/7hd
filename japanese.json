@@ -2,6 +2,20 @@
   "name": "หนังญี่ปุ่น",
   "stations": [
     {
+      "name": "ซูซูกิ บากุดัน Suzuki Bakudan (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.43-e1776545048999.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Q-x4WWOS_5lhq/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Q-x4WWOS_5lhq"
+        }
+      ]
+    },
+    {
       "name": "ฉันจะบอกความจริงกับคุณ I will tell you the truth (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-12-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.10.53-e1775931142374.png",
       "servers": [
