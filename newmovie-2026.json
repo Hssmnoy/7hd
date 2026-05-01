@@ -2,6 +2,34 @@
   "name": "หนังใหม่ 2026",
   "stations": [
     {
+      "name": "เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ A Gorilla Story (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.11-e1776544980395.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/WKp_vSr-zPP7O/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/WKp_vSr-zPP7O"
+        }
+      ]
+    },
+    {
+      "name": "หนึ่ง แปด ศูนย์ 180 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.23-e1776545004843.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/kw_eeM-n2riUh/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/kw_eeM-n2riUh"
+        }
+      ]
+    },
+    {
       "name": "โนอาห์ คาห์น เส้นทางสู่จุดสูงสุด Noah Kahan Out Of Body (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.59-e1776545027865.png",
       "servers": [
