@@ -2,6 +2,34 @@
   "name": "หนังไทย",
   "stations": [
     {
+      "name": "สายลับรถแห่ The Cop Spy On Stage (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.41.02-e1777747651886.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/EIDAH8YP-t_ZZ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/EIDAH8YP-t_ZZ"
+        }
+      ]
+    },
+    {
+      "name": "ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ Somdej Toh (2015)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.41.55-e1777747602607.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/KSG-M_V7GIM3P/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/KSG-M_V7GIM3P"
+        }
+      ]
+    },
+    {
       "name": "ดีว่าราวี Diva La Vie 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-10.54.21-e1775707188215.png",
       "servers": [
