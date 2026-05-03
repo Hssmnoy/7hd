@@ -2,6 +2,34 @@
   "name": "หนัง Netflix",
   "stations": [
     {
+      "name": "สลับร่างผจญภัย Swapped (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.40.11-e1777747697928.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/y_8-A08ievbRO/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/y_8-A08ievbRO"
+        }
+      ]
+    },
+    {
+      "name": "คนจริงเผาแค้น Man on Fire 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.40.33-e1777747673114.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/J_IK2-Bq3krw7/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/J_IK2-Bq3krw7"
+        }
+      ]
+    },
+    {
       "name": "เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ A Gorilla Story (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.11-e1776544980395.png",
       "servers": [
