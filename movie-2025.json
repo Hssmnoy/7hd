@@ -2,6 +2,34 @@
   "name": "หนังใหม่ 2025",
   "stations": [
     {
+      "name": "พ่อป่วน ลูกหนี ทริปนี้มีแต่เรื่อง Buen Camino (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.00.19-e1777979591704.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/YgR_n-tQzSoq4/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/YgR_n-tQzSoq4"
+        }
+      ]
+    },
+    {
+      "name": "คิส คิส Kiss-Kiss (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.08.13-e1777979471761.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/83-OPLo_zJzPE/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/83-OPLo_zJzPE"
+        }
+      ]
+    },
+    {
       "name": "ซูซูกิ บากุดัน Suzuki Bakudan (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-19-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.41.43-e1776545048999.png",
       "servers": [
