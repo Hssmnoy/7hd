@@ -3,6 +3,8 @@ name: 7HD
 on:
   
   workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * *"
 
 permissions:
   contents: write
