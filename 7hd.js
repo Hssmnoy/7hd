@@ -4,6 +4,7 @@ const { execSync } = require('child_process');
 const WISEPLAY_DIR = "wiseplay";
 const DOMAIN = "https://7-hd.com/";
 const isCI = process.env.GITHUB_ACTIONS === 'true';
+
 // ===== CONFIG =====
 const CATEGORIES = [
   {
@@ -208,7 +209,7 @@ function buildWiseplayJSON(groupName, movies) {
 
   const output = {
     name: groupName,
-    author: today,
+    author: `อัพเดตล่าสุด ${today}`,
     image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
     url: DOMAIN,
     groups: []
@@ -242,7 +243,7 @@ function generateIndex(categories) {
 
   const index = {
     name: "7HD",
-    author: new Date().toLocaleDateString("th-TH"),
+    author: `อัพเดตล่าสุด ${new Date().toLocaleDateString("th-TH")}`,
     image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
     url: "https://7-hd.com/",
     groups: []
