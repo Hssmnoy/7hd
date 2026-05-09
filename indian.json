@@ -2,6 +2,286 @@
   "name": "หนังอินเดีย",
   "stations": [
     {
+      "name": "มิสชาเทอจี ปะทะ นอเวย์ สงครามของแม่ Mrs. Chatterjee Vs Norway (2023) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/20230222_122545-e1684054809122.jpeg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/q613d1as1n/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/q613d1as1n/"
+        }
+      ]
+    },
+    {
+      "name": "Kaapa กะป้า (2022) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/download-3-1.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/cbj3mp9yv4/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/cbj3mp9yv4/"
+        }
+      ]
+    },
+    {
+      "name": "Chhorii ชโฮรี (2021) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/Chhorii-2021-e1684212281687.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/phtzlgo3h4/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/phtzlgo3h4/"
+        }
+      ]
+    },
+    {
+      "name": "Tu Jhoothi Main Makkaar ทุ จุ ติ เมน มักกะอาร์ (2023) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-%E0%B8%97%E0%B8%B8-%E0%B8%88%E0%B8%B8-%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%A1%E0%B8%99-%E0%B8%A1%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C-2023-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-e1684214602826.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/bu1xbqudih/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/bu1xbqudih/"
+        }
+      ]
+    },
+    {
+      "name": "Pathu Thala ปาธุ ทาลา (2023) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/Pathu-Thala-%E0%B8%9B%E0%B8%B2%E0%B8%98%E0%B8%B8-%E0%B8%97%E0%B8%B2%E0%B8%A5%E0%B8%B2-2023-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-e1684214725115.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/nejj5popbg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/nejj5popbg/"
+        }
+      ]
+    },
+    {
+      "name": "Kelab Rojak เกล็อบ โรจัก (2023) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/download-13-3.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/k2pukz6zmf/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/k2pukz6zmf/"
+        }
+      ]
+    },
+    {
+      "name": "Cool And Fool 2 โปลิศ มหากาฬปราบขบวนโจรสาวสบึม(1996)",
+      "image": "https://7-hd.com/wp-content/uploads/2023/06/MV5BZDdlNDhiYjktNDBjNi00Zjg3LWE5YjctNjgwZDZkNWU3YWNlXkEyXkFqcGdeQXVyMzY1MTkwMDM@._V1_QL75_UY281_CR100190281_-e1687017197578.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/14i9q6xhrl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/14i9q6xhrl/"
+        }
+      ]
+    },
+    {
+      "name": "Maska เส้นแบ่งฝัน (2020)",
+      "image": "https://7-hd.com/wp-content/uploads/2023/06/download-7-5.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/a27dqnzopl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/a27dqnzopl/"
+        }
+      ]
+    },
+    {
+      "name": "Head to Head (2023) ตัวต่อตัว",
+      "image": "https://7-hd.com/wp-content/uploads/2023/08/Head-to-Head-2023-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%A7-e1691358138858.webp",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/epgtykhu10/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/epgtykhu10/"
+        }
+      ]
+    },
+    {
+      "name": "Bawaal บาวาล (2023)",
+      "image": "https://7-hd.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-07-05-at-7.16.27-AM-e1692216851721.webp",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/s63tzdj9bw/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/s63tzdj9bw/"
+        }
+      ]
+    },
+    {
+      "name": "อะดิปูรัส Adipurush (2023) บรรยายไทย",
+      "image": "https://7-hd.com/wp-content/uploads/2023/08/1-1-300x450-1-e1692219815481.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/zsu8ckll41/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/zsu8ckll41/"
+        }
+      ]
+    },
+    {
+      "name": "Bro 2023",
+      "image": "https://7-hd.com/wp-content/uploads/2023/09/MV5BOWEzMWI4YmMtMWI2Zi00Y2Q0LTk1NjgtNGExM2E3MzY2ZTU5XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_-e1694936960975.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/l1y2pxwqkl/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/l1y2pxwqkl/"
+        }
+      ]
+    },
+    {
+      "name": "Bhola Shankar (2023) แท็กซี่ผู้พิทักษ์",
+      "image": "https://7-hd.com/wp-content/uploads/2023/09/MV5BYTY5NTM2NWMtYmExNi00NjA1LTk4MWItN2Q5ZDFhY2YyZmQ2XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_-e1695698004955.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/i2wtygcgd4/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/i2wtygcgd4"
+        }
+      ]
+    },
+    {
+      "name": "12th Fail (2023) คนสอบตก",
+      "image": "https://7-hd.com/wp-content/uploads/2024/03/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_-e1709790743335.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/pc4jg257vb/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/pc4jg257vb"
+        }
+      ]
+    },
+    {
+      "name": "Guntur Kaaram เจ้าพ่อกุนตูร์ (2024)",
+      "image": "https://7-hd.com/wp-content/uploads/2024/04/download-14-1.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/5n3s6d2qx9/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/5n3s6d2qx9"
+        }
+      ]
+    },
+    {
+      "name": "Ae Watan Mere Watan อินเดียที่รัก (2024)",
+      "image": "https://7-hd.com/wp-content/uploads/2024/04/download-17-2.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/ozwid8hlfg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/ozwid8hlfg"
+        }
+      ]
+    },
+    {
+      "name": "วอร์นนิ่ง 2 Warning 2 (2024)",
+      "image": "https://7-hd.com/wp-content/uploads/2024/04/2-Warning-2-2024-e1714113102291.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/pjdiws3zcc/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/pjdiws3zcc"
+        }
+      ]
+    },
+    {
+      "name": "ชาริ ทริปเปอร์ วัน Chaari 111 (2024)",
+      "image": "https://7-hd.com/wp-content/uploads/2024/04/%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99-Chaari-111-2024-e1714113198809.webp",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/tmf6nhne91/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/tmf6nhne91"
+        }
+      ]
+    },
+    {
+      "name": "เพชรงามเมือง จากผู้สร้างคังคุไบ Heeramandi The Diamond Bazaar 2024",
+      "image": "https://7-hd.com/wp-content/uploads/2024/05/MV5BMzFmMGM3ZWEtYTg4Ni00NGRjLThlY2MtNGNlY2U3MjBlYzgxXkEyXkFqcGdeQXVyMTU5OTAwMjU4._V1_-e1714653972333.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/229dsy4603/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/229dsy4603"
+        }
+      ]
+    },
+    {
+      "name": "13 Bombs (2024) 13 บอมบ์",
+      "image": "https://7-hd.com/wp-content/uploads/2024/05/ry5Ey1bmdrYC1ZtV1klhAoSkwfG-e1715256621918.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/2fd3y5t6du/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/2fd3y5t6du"
+        }
+      ]
+    },
+    {
       "name": "วอยนา โปลิคาจตอฟ Vojna policajtov (2024)",
       "image": "https://7-hd.com/wp-content/uploads/2024/05/MV5BZWZmYjQyNmQtNTZmYi00ZDgzLTkzODMtODIyMzU5ZWUyM2JmXkEyXkFqcGdeQXVyNzIzMjQ3MTA@._V1_FMjpg_UX1000_-e1715827334129.jpg",
       "servers": [
