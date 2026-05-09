@@ -1,0 +1,68 @@
+{
+  "name": "7HD",
+  "author": "9/5/2569",
+  "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+  "url": "https://7-hd.com/",
+  "groups": [
+    {
+      "name": "0",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/0.json"
+    },
+    {
+      "name": "1",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/1.json"
+    },
+    {
+      "name": "2",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/2.json"
+    },
+    {
+      "name": "3",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/3.json"
+    },
+    {
+      "name": "4",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/4.json"
+    },
+    {
+      "name": "5",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/5.json"
+    },
+    {
+      "name": "6",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/6.json"
+    },
+    {
+      "name": "7",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/7.json"
+    },
+    {
+      "name": "8",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/8.json"
+    },
+    {
+      "name": "9",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/9.json"
+    },
+    {
+      "name": "10",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/10.json"
+    },
+    {
+      "name": "11",
+      "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/11.json"
+    }
+  ]
+}
