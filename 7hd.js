@@ -209,43 +209,26 @@ function buildWiseplayJSON(groupName, movies) {
   const output = {
     name: groupName,
     author: today,
-    image: "",
+    image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
     url: DOMAIN,
     groups: []
   }
 
-  for (const movie of movies) {
+  for (const movie of movies || []) {
 
-    let group = {
-      name: movie.title,
-      author: today,
+    output.groups.push({
+      name: movie.name,
       image: movie.image,
-      stations: []
-    }
-
-    for (const ep of movie.episodes) {
-
-      group.stations.push({
-        name: ep.name.replace("EP","ตอนที่ "),
+      info: movie.info || "",
+      stations: (movie.servers || []).map(s => ({
+        name: movie.name,
         image: movie.image,
-        url: ep.servers[0].url,
+        url: s.url,
         referer: DOMAIN
-      })
+      }))
+    });
 
-    }
-
-    // 🔥 เรียงตอนใหม่ขึ้นบน
-    group.stations.sort((a,b)=>{
-      const aNum = parseInt(a.name.replace("ตอนที่ ",""))
-      const bNum = parseInt(b.name.replace("ตอนที่ ",""))
-      return bNum - aNum
-    })
-
-    if (group.stations.length > 0) {
-      output.groups.push(group)
-    }
-
-  }
+  }  
 
   const file = `${WISEPLAY_DIR}/${groupName}.json`
 
@@ -253,7 +236,6 @@ function buildWiseplayJSON(groupName, movies) {
 
   console.log("✅ WISEPLAY JSON:", file)
 }
-
 
 function generateIndex(jsonOutput) {
   const baseRaw = "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/";
@@ -353,9 +335,7 @@ if (!results.find(r => r.name === movie.title)) {
   }, { spaces: 2 });
 
   console.log('💾 autosave json');
-  if (results.length > 0) {
   
-}
   gitCommit(`progress ${cat.file} (${results.length})`);
 }
 }
@@ -385,7 +365,9 @@ if (!results.find(r => r.name === movie.title)) {
     await fs.writeFile(`./${cat.file}.m3u`, m3u);
 
     console.log(`📺 Saved ${cat.file}.m3u`);
-    buildWiseplayJSON(cat.name, results);
+    if (results.length > 0) {
+  buildWiseplayJSON(cat.name, results);
+}
     generateIndex(CATEGORIES.map(c => c.file));
     // ===== FINAL COMMIT =====
     gitCommit(`update ${cat.file}`);
