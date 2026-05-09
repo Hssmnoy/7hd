@@ -1,68 +1,68 @@
 {
   "name": "7HD",
-  "author": "9/5/2569",
+  "author": "อัพเดตล่าสุด 9/5/2569",
   "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
   "url": "https://7-hd.com/",
   "groups": [
     {
-      "name": "0",
+      "name": "หนังใหม่ 2026",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/0.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/newmovie-2026.json"
     },
     {
-      "name": "1",
+      "name": "หนังใหม่ 2025",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/1.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/movie-2025.json"
     },
     {
-      "name": "2",
+      "name": "หนัง action",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/2.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/action.json"
     },
     {
-      "name": "3",
+      "name": "หนังไทย",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/3.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/thai-movie.json"
     },
     {
-      "name": "4",
+      "name": "หนังฝรั่ง",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/4.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/inter.json"
     },
     {
-      "name": "5",
+      "name": "หนังเกาหลี",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/5.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/korean.json"
     },
     {
-      "name": "6",
+      "name": "หนังจีน",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/6.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/chinese.json"
     },
     {
-      "name": "7",
+      "name": "หนังญี่ปุ่น",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/7.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/japanese.json"
     },
     {
-      "name": "8",
+      "name": "หนังอินเดีย",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/8.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/indian.json"
     },
     {
-      "name": "9",
+      "name": "หนัง Netflix",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/9.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/netflix.json"
     },
     {
-      "name": "10",
+      "name": "หนัง Marvel",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/10.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/marvel.json"
     },
     {
-      "name": "11",
+      "name": "หนัง DC",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/11.json"
+      "url": "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/dc.json"
     }
   ]
 }
