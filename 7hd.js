@@ -1,6 +1,8 @@
 const { chromium } = require('playwright');
 const fs = require('fs-extra');
 const { execSync } = require('child_process');
+const WISEPLAY_DIR = "wiseplay";
+const DOMAIN = "https://7-hd.com/";
 const isCI = process.env.GITHUB_ACTIONS === 'true';
 // ===== CONFIG =====
 const CATEGORIES = [
@@ -198,11 +200,94 @@ async function scrapeMovie(page, url) {
   return embed;
 }
 
+function buildWiseplayJSON(groupName, movies) {
+
+  console.log("📺 BUILD WISEPLAY:", groupName)
+
+  const today = new Date().toLocaleDateString("th-TH")
+
+  const output = {
+    name: groupName,
+    author: today,
+    image: "",
+    url: DOMAIN,
+    groups: []
+  }
+
+  for (const movie of movies) {
+
+    let group = {
+      name: movie.title,
+      author: today,
+      image: movie.image,
+      stations: []
+    }
+
+    for (const ep of movie.episodes) {
+
+      group.stations.push({
+        name: ep.name.replace("EP","ตอนที่ "),
+        image: movie.image,
+        url: ep.servers[0].url,
+        referer: DOMAIN
+      })
+
+    }
+
+    // 🔥 เรียงตอนใหม่ขึ้นบน
+    group.stations.sort((a,b)=>{
+      const aNum = parseInt(a.name.replace("ตอนที่ ",""))
+      const bNum = parseInt(b.name.replace("ตอนที่ ",""))
+      return bNum - aNum
+    })
+
+    if (group.stations.length > 0) {
+      output.groups.push(group)
+    }
+
+  }
+
+  const file = `${WISEPLAY_DIR}/${groupName}.json`
+
+  fs.writeFileSync(file, JSON.stringify(output, null, 2))
+
+  console.log("✅ WISEPLAY JSON:", file)
+}
+
+
+function generateIndex(jsonOutput) {
+  const baseRaw = "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/";
+
+  const index = {
+    name: "7HD",
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+    url: "https://7-hd.com/",
+    groups: []
+  };
+
+  for (const group in jsonOutput) {
+    index.groups.push({
+      name: group,
+      image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
+      url: `${baseRaw}${group}.json`
+    });
+  }
+
+  const file = `${WISEPLAY_DIR}/index.json`;
+
+  fs.writeFileSync(file, JSON.stringify(index, null, 2));
+
+  console.log("📦 index.json created");
+}
+
 // ===== MAIN =====
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
-
+  if (!fs.existsSync(WISEPLAY_DIR)) {
+  fs.mkdirSync(WISEPLAY_DIR);
+}
   for (const cat of CATEGORIES) {
     console.log(`\n📂 Category: ${cat.name}`);
 
@@ -268,7 +353,9 @@ if (!results.find(r => r.name === movie.title)) {
   }, { spaces: 2 });
 
   console.log('💾 autosave json');
-
+  if (results.length > 0) {
+  
+}
   gitCommit(`progress ${cat.file} (${results.length})`);
 }
 }
@@ -298,7 +385,8 @@ if (!results.find(r => r.name === movie.title)) {
     await fs.writeFile(`./${cat.file}.m3u`, m3u);
 
     console.log(`📺 Saved ${cat.file}.m3u`);
-
+    buildWiseplayJSON(cat.name, results);
+    generateIndex(CATEGORIES.map(c => c.file));
     // ===== FINAL COMMIT =====
     gitCommit(`update ${cat.file}`);
   }
