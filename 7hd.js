@@ -45,6 +45,11 @@ const CATEGORIES = [
     url: 'https://7-hd.com/japanese-movie/'
   },
   {
+    name: 'หนังอินเดีย',
+    file: 'indian',
+    url: 'https://7-hd.com/indian-movies/'
+  },    
+  {
     name: 'หนัง Netflix',
     file: 'netflix',
     url: 'https://7-hd.com/netflix/'
