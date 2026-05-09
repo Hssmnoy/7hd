@@ -2,6 +2,202 @@
   "name": "หนังอินเดีย",
   "stations": [
     {
+      "name": "ตาโขน Ta Khon (2025)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.29-e1776449463568.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/MuS-O_adSGerV/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/MuS-O_adSGerV"
+        }
+      ]
+    },
+    {
+      "name": "รักนี้มงลง Perfect Crown 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-15-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-02.01.13-e1776193471678.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Opv_SPWCMn-iH/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Opv_SPWCMn-iH"
+        }
+      ]
+    },
+    {
+      "name": "เดร์เดวิล บอร์น อะเกน 2 Daredevil born again season 2 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/03/-2569-03-26-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-11.16.30-e1774498971730.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/fbxdq-J6Sl_n5/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/fbxdq-J6Sl_n5"
+        }
+      ]
+    },
+    {
+      "name": "ทางโจร 2 Crooks Season 2 (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-21-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-03.51.17-e1776718628108.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/H_cWyNn-vsmJU/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/H_cWyNn-vsmJU"
+        }
+      ]
+    },
+    {
+      "name": "แพนด้าเด้งยกกำลังฟัด Panda Plan 2 The Magical Tribe (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-23-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.55.16-e1776945380711.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/r-dN1YF_xqXkY/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/r-dN1YF_xqXkY"
+        }
+      ]
+    },
+    {
+      "name": "มือปืน 2025",
+      "image": "https://7-hd.com/wp-content/uploads/2025/12/2568-12-01-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.10.18-e1764598379205.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/XyCY6-IMV_kne/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/XyCY6-IMV_kne"
+        }
+      ]
+    },
+    {
+      "name": "กีรีโก แอปหลอน พรสั่งตาย If Wishes Could Kill 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-27-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.03.32-e1777291658868.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/iDJ1yzG-l_szo/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/iDJ1yzG-l_szo"
+        }
+      ]
+    },
+    {
+      "name": "ห่วงโซ่สังหาร Apex (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-27-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.27.44-e1777292899515.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/KWAYX_qy-AC0L/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/KWAYX_qy-AC0L"
+        }
+      ]
+    },
+    {
+      "name": "สายลับรถแห่ The Cop Spy On Stage (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.41.02-e1777747651886.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/EIDAH8YP-t_ZZ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/EIDAH8YP-t_ZZ"
+        }
+      ]
+    },
+    {
+      "name": "คนจริงเผาแค้น Man on Fire 2026",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.40.33-e1777747673114.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/J_IK2-Bq3krw7/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/J_IK2-Bq3krw7"
+        }
+      ]
+    },
+    {
+      "name": "แต่งก็บ้า..ดราม่าเบอร์นี้ The Drama (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-18.07.16-e1777979516509.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/A-fWI_Dn1Vzex/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/A-fWI_Dn1Vzex"
+        }
+      ]
+    },
+    {
+      "name": "ข้างบ้าน 2025",
+      "image": "https://7-hd.com/wp-content/uploads/2025/12/2568-12-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.46.48-e1765284442945.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/N_1ND9uD6V-sf/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/N_1ND9uD6V-sf"
+        }
+      ]
+    },
+    {
+      "name": "Gangubai Kathiawadi หญิงแกร่งแห่งมุมไบ (2022)",
+      "image": "https://7-hd.com/wp-content/uploads/2022/06/ykNzW6OJS34O9rONggg4yZc2sxOFlJGGangubai_Kathiawadi_%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B9%84%E0%B8%9A_2022_%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpeg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/j3vfth4h5m/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/j3vfth4h5m/"
+        }
+      ]
+    },
+    {
+      "name": "คังคุไบ หญิงแกร่งแห่งมุมไบ Gangubai Kathiawadi 2022",
+      "image": "https://7-hd.com/wp-content/uploads/2022/05/20220507121103GangubaiKathiawadi2022.jpg",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/j3vfth4h5m/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/j3vfth4h5m/"
+        }
+      ]
+    },
+    {
       "name": "มิสชาเทอจี ปะทะ นอเวย์ สงครามของแม่ Mrs. Chatterjee Vs Norway (2023) บรรยายไทย",
       "image": "https://7-hd.com/wp-content/uploads/2023/05/20230222_122545-e1684054809122.jpeg",
       "servers": [
