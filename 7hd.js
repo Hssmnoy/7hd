@@ -237,7 +237,7 @@ function buildWiseplayJSON(groupName, movies) {
   console.log("✅ WISEPLAY JSON:", file)
 }
 
-function generateIndex(jsonOutput) {
+function generateIndex(categories) {
   const baseRaw = "https://raw.githubusercontent.com/Hssmnoy/7hd/main/wiseplay/";
 
   const index = {
@@ -248,19 +248,15 @@ function generateIndex(jsonOutput) {
     groups: []
   };
 
-  for (const group in jsonOutput) {
+  for (const cat of categories) {
     index.groups.push({
-      name: group,
-      image: "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
-      url: `${baseRaw}${group}.json`
+      name: cat.name,
+      image: index.image,
+      url: `${baseRaw}${cat.file}.json`
     });
   }
 
-  const file = `${WISEPLAY_DIR}/index.json`;
-
-  fs.writeFileSync(file, JSON.stringify(index, null, 2));
-
-  console.log("📦 index.json created");
+  fs.writeFileSync(`${WISEPLAY_DIR}/index.json`, JSON.stringify(index, null, 2));
 }
 
 // ===== MAIN =====
@@ -368,7 +364,7 @@ if (!results.find(r => r.name === movie.title)) {
     if (results.length > 0) {
   buildWiseplayJSON(cat.name, results);
 }
-    generateIndex(CATEGORIES.map(c => c.file));
+    generateIndex(CATEGORIES);
     // ===== FINAL COMMIT =====
     gitCommit(`update ${cat.file}`);
   }
