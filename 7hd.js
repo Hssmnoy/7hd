@@ -253,7 +253,7 @@ function generateIndex(categories) {
     index.groups.push({
       name: cat.name,
       image: index.image,
-      url: `${baseRaw}${groupName}.json`
+      url: `${baseRaw}${cat.name}.json`
     });
   }
 
