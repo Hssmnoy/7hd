@@ -2,6 +2,34 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "เลือดรักนักฆ่า My Dearest Assassin (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-20.50.28-e1778334726200.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/4dI_h-G4D3agf/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/4dI_h-G4D3agf"
+        }
+      ]
+    },
+    {
+      "name": "มอร์ทัล คอมแบท 2 Mortal Kombat II (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-10-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.00.16-e1778346050140.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/fB5Ie-M_jw1eK/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/fB5Ie-M_jw1eK"
+        }
+      ]
+    },
+    {
       "name": "สลับร่างผจญภัย Swapped (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-03-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.40.11-e1777747697928.png",
       "servers": [
