@@ -1,9 +1,28 @@
 {
   "name": "หนังอินเดีย",
-  "author": "อัพเดตล่าสุด 13/5/2569",
+  "author": "อัพเดตล่าสุด 15/5/2569",
   "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
   "url": "https://7-hd.com/",
   "groups": [
+    {
+      "name": "ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด Biker (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.02.12-e1778687378572.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด Biker (2026)",
+          "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.02.12-e1778687378572.png",
+          "url": "https://media.vdohls.com/acWZP-C_zscLg/playlist.m3u8",
+          "referer": "https://7-hd.com/"
+        },
+        {
+          "name": "ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด Biker (2026)",
+          "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.02.12-e1778687378572.png",
+          "url": "https://weplayhls.xyz/embed/acWZP-C_zscLg",
+          "referer": "https://7-hd.com/"
+        }
+      ]
+    },
     {
       "name": "ตาโขน Ta Khon (2025)",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-18-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-01.05.29-e1776449463568.png",
