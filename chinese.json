@@ -2,6 +2,20 @@
   "name": "หนังจีน",
   "stations": [
     {
+      "name": "สายลับซ่อนตัวตน I AM UNDERCOVER (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.03.18-e1778686986512.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Dc6-g_PuBIOiJ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Dc6-g_PuBIOiJ"
+        }
+      ]
+    },
+    {
       "name": "สาวงามในบันทึกเรื่องประหลาด The Enchanting Cranium Mystery (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-01-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-19.59.38-e1777631682919.png",
       "servers": [
