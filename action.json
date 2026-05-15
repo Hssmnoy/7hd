@@ -2,6 +2,90 @@
   "name": "หนัง action",
   "stations": [
     {
+      "name": "ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด Biker (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.02.12-e1778687378572.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/acWZP-C_zscLg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/acWZP-C_zscLg"
+        }
+      ]
+    },
+    {
+      "name": "บันทึกครัวค่ายทหาร 2026 The Legend of Kitchen Soldier",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.06.00-e1778686663757.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/R-E0la_8JHTVi/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/R-E0la_8JHTVi"
+        }
+      ]
+    },
+    {
+      "name": "คาเคน Kraken (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.03.00-e1778687074988.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/tYt-KO4No_WXb/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/tYt-KO4No_WXb"
+        }
+      ]
+    },
+    {
+      "name": "สายลับซ่อนตัวตน I AM UNDERCOVER (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.03.18-e1778686986512.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Dc6-g_PuBIOiJ/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Dc6-g_PuBIOiJ"
+        }
+      ]
+    },
+    {
+      "name": "แหวนศักดิ์สิทธิ์ JieLing (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.04.39-e1778686887382.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/5s-Kb_9hIHq01/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/5s-Kb_9hIHq01"
+        }
+      ]
+    },
+    {
+      "name": "ยามซากุระร่วงโรย 5 Centimeters Per Second (2026)",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.05.23-e1778686811898.png",
+      "servers": [
+        {
+          "name": "⚡ M3U8",
+          "url": "https://media.vdohls.com/Th0kZ9-ESi_Rg/playlist.m3u8"
+        },
+        {
+          "name": "🎬 Embed",
+          "url": "https://weplayhls.xyz/embed/Th0kZ9-ESi_Rg"
+        }
+      ]
+    },
+    {
       "name": "เลือดรักนักฆ่า My Dearest Assassin (2026)",
       "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-09-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-20.50.28-e1778334726200.png",
       "servers": [
