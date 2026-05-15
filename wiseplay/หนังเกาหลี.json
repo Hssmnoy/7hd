@@ -1,9 +1,28 @@
 {
   "name": "หนังเกาหลี",
-  "author": "อัพเดตล่าสุด 13/5/2569",
+  "author": "อัพเดตล่าสุด 15/5/2569",
   "image": "https://7-hd.com/wp-content/uploads/2023/05/logo-24-hd-tv.webp",
   "url": "https://7-hd.com/",
   "groups": [
+    {
+      "name": "บันทึกครัวค่ายทหาร 2026 The Legend of Kitchen Soldier",
+      "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.06.00-e1778686663757.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "บันทึกครัวค่ายทหาร 2026 The Legend of Kitchen Soldier",
+          "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.06.00-e1778686663757.png",
+          "url": "https://media.vdohls.com/R-E0la_8JHTVi/playlist.m3u8",
+          "referer": "https://7-hd.com/"
+        },
+        {
+          "name": "บันทึกครัวค่ายทหาร 2026 The Legend of Kitchen Soldier",
+          "image": "https://7-hd.com/wp-content/uploads/2026/05/-2569-05-13-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-21.06.00-e1778686663757.png",
+          "url": "https://weplayhls.xyz/embed/R-E0la_8JHTVi",
+          "referer": "https://7-hd.com/"
+        }
+      ]
+    },
     {
       "name": "บลัดฮาวด์ 2 หมาล่าเนื้อ 2 Bloodhounds 2 2026",
       "image": "https://7-hd.com/wp-content/uploads/2026/04/-2569-04-05-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-00.54.11-e1775325522297.png",
